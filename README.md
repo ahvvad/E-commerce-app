@@ -2,10 +2,11 @@
 
 #### I remade this app for learning.
 
-#### this app not completed
+#### This app not completed
 
 ## Preview :
 
 <div>
-  <img src="https://github.com/user-attachments/assets/a9a5054a-b5c0-4177-8cb9-b44d4fbd24b5" style="padding: 20px;" />
+  <img src="https://github.com/user-attachments/assets/f87b6867-f06c-4891-b191-06ca42178c97" style="padding: 20px;" />
 </div>
+
